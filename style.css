@@ -1,0 +1,29 @@
+/* .Pbox{
+    background-color: rgb(204, 231, 204);
+}
+.Rbox{
+    background-color: rgb(230, 189, 189);
+}
+.Ybox{
+    background-color: rgb(233, 233, 194);
+}
+.Bbox{
+    background-color: rgb(193, 193, 211);
+}
+.brbox{
+    background-color: rgb(236, 205, 227);
+} */
+
+.Pbox{
+    background-color: hsl(263, 55.00%, 68.60%);
+}
+.PAbox{
+    background-color: hsl(219, 29%, 14%);
+    /* background-color: hsl(0, 0%, 7%); */
+}
+.JWbox{
+    background-color: hsl(217, 19%, 35%);
+}
+.KWbox{
+    background-color: hsl(0, 0%, 81%)
+}
